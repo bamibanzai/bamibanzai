@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bamibanzai
 - 👀 I’m interested in Python, Offensive Security, Open Source Development, and Web 3.0 Applications.
-- 🌱 I’m currently learning Solidity and Elm.
+- 🌱 I’m currently improving on my Solidity and Elm.
 - 💞️ I’m looking to collaborate on any security or decentralised projects.
 - 📫 How to reach me - bamitomisin@pm.me
 
